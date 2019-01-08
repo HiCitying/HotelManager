@@ -55,7 +55,7 @@
     <form id="form1" runat="server" >
         
         <div>
-           
+            
             <div align="right">
             <asp:Button ID="Button4" runat="server" Text="管理员登录" OnClick="Button4_Click" />
 
